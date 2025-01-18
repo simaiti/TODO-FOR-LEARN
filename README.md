@@ -24,3 +24,15 @@
 
 その他  
 ・これのデスクトップ版とか  
+
+必要そうなスキルや知識
+・Java（PaizaでSは取れたが実務経験がない）  
+・HTML+CSS（ほぼ未収得）  
+・javascript（ほぼ未収得）    
+・Git（ほぼ未収得）  
+・SQL（MySQLを使用する、ほぼ未収得）  
+・tomcat（ほぼ未収得）  
+・Linux（ほぼ未収得）  
+・Spring Flamework（完全未経験）  
+・Gradle（完全未経験）  
+・AWS（完全未経験）  
